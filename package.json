@@ -1,6 +1,6 @@
 {
   "name": "autopages-browserify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Browserify plugin for autopages",
   "main": "index.js",
   "scripts": {
