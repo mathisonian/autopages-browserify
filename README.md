@@ -13,7 +13,7 @@ Autopages plugin for compiling browserify js files
 var Autopages = require('autopages');
 var apBrowserify = require('autopages-browserify');
 
-var autopages = new Autopages('ab27c98fa86a48376c14f104d366df46d5787ab5');
+var autopages = new Autopages('API_TOKEN');
 
 var debug = false;
 
